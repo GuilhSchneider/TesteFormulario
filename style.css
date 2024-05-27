@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    column-gap: 10px;
+}
+
+.subForm{
+    
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+}
